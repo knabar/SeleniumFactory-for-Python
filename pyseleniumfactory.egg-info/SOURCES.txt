@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+pyseleniumfactory/__init__.py
+pyseleniumfactory.egg-info/PKG-INFO
+pyseleniumfactory.egg-info/SOURCES.txt
+pyseleniumfactory.egg-info/dependency_links.txt
+pyseleniumfactory.egg-info/entry_points.txt
+pyseleniumfactory.egg-info/top_level.txt
+pyseleniumfactory.egg-info/zip-safe
